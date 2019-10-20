@@ -1,6 +1,6 @@
 package oops.abstractions;
 
-public class AssignmentQue1 {
+public class Assignment1Que1 {
 	//What will be the output of following program?
 
 	//public class Test {

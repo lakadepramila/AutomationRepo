@@ -1,7 +1,7 @@
-package exceptionHandling;
+/*package exceptionHandling;
 
 public class Assignment1Que2 {
-
+*/
 
 		//What will be the output of following program?
 
@@ -10,7 +10,7 @@ public class Assignment1Que2 {
 				/**
 				* @param args
 				*/
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 
 		try{
 		int o[] = new int[2];
@@ -25,3 +25,4 @@ public class Assignment1Que2 {
 		}
 
 }
+*/

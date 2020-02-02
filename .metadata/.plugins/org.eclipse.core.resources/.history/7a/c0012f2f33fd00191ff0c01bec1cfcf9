@@ -1,0 +1,17 @@
+package BasicAPITesting;
+
+import org.testng.Assert;
+
+import org.testng.annotations.Test;
+
+public class TC_GetEmployee_Details {
+	
+	@Test
+	public void test1()
+	{
+	System.out.println("Step 1");	
+	System.out.println("Step 2");	
+	System.out.println("Step 3");	
+	}
+
+}

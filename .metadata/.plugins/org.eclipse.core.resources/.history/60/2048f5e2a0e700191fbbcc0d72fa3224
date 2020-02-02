@@ -1,0 +1,13 @@
+package loops;
+
+public class Forloop {
+
+	public static void main(String[] args) {
+		//initialization //conditional // Increment or Decrement
+		for i int i=1; i<=10;++i)
+		{	System.out.println(i);
+		}
+		
+	}
+
+}

@@ -1,0 +1,26 @@
+package BasicAPITesting;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.http.Method;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+
+public class TC_GetEmployee_Details {
+
+	@Test
+	public void test1()
+	{
+		//Step 2: Verify new record exist
+		//RestAssured.baseURI = "http://dummy.restapiexample.com/api/v1/employee/"+id;
+		RestAssured.baseURI = "http://dummy.restapiexample.com/api/v1/employee/71735";
+		RequestSpecification request = RestAssured.given();
+	            request.header("Content-Type", "application/json");
+				Response response = request.request(Method.GET);//response rest assured
+				int statusCode = response.getStatusCode();
+				
+				System.out.println(statusCode);
+		
+	}
+}

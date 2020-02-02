@@ -1,0 +1,12 @@
+package BasicAPITesting;
+
+import org.testng.annotations.Test;
+
+public class TC_GetEmployee_Details {
+	
+	@Test
+	public void test1(){
+		
+	}
+
+}

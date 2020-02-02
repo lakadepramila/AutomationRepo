@@ -1,0 +1,10 @@
+package BasicAPITesting;
+
+public class TC_GetEmployee_Details {
+
+	@Test
+	public void test1()
+	{
+		
+	}
+}

@@ -1,0 +1,32 @@
+package BasicAPITesting;
+
+import org.testng.Assert;
+
+import org.testng.annotations.Test;
+
+public class TC_GetEmployee_Details {
+	
+	int a=10;
+	int b=20;
+    int c=30;
+    
+	@Test
+	public void test1()
+	{
+		//Hard Assertion
+	
+	Assert.assertEquals(15, );
+	System.out.println("Step 1");	
+	System.out.println("Step 2");	
+	System.out.println("Step 3");	
+	}
+	
+	@Test
+	public void test2()
+	{
+	System.out.println("Step 1");	
+	System.out.println("Step 2");	
+	System.out.println("Step 3");	
+	}
+
+}

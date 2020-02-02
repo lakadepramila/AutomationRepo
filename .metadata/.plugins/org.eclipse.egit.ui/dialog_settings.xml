@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="Pramila &lt;lakadepramila@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Pramila &lt;lakadepramila@gmail.com&gt;"/>
+	</list>
+	<section name="GitCommitMessageComponent">
+		<list key="F:\selenium\AutomationRepo\.git">
+			<item value="false"/>
+			<item value="Pramila &lt;lakadepramila@gmail.com&gt;"/>
+			<item value="practiced data on dated- 19/10/2019 and 20/10/2019"/>
+			<item value="Pramila &lt;lakadepramila@gmail.com&gt;"/>
+			<item value="28bc81386037373a9c54c40bd2d3ff7465ed5625"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="500,500" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="500,500" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
